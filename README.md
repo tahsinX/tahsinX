@@ -14,8 +14,7 @@ Here are some ideas to get started:
 - 😄 Pronouns: …
 - ⚡ Fun fact: …
 -->
-
-![GitHub Stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=tahsinX\&show_icons=true\&theme=radical)
+(https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 
 
