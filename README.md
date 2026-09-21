@@ -13,6 +13,40 @@ Welcome to my GitHub profile! I'm passionate about learning, building projects, 
 
 ---
 
+### 🛠️ My Tech Stack
+
+Based on my recent projects, I work with frontend development, JavaScript applications, Java desktop applications, and C programming.
+
+#### 🌐 Frontend Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,vite,tailwind" alt="HTML, CSS, JavaScript, React, Vite, and Tailwind CSS" />
+</p>
+
+#### 🎨 UI & Frontend Libraries
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" />
+  <br>
+  <sub>Also used: DaisyUI, React Router, React Leaflet, Lucide React, React Icons</sub>
+</p>
+
+#### ☕ Desktop & Programming
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,c" alt="Java and C" />
+  <br>
+  <sub>JavaFX and Scene Builder for desktop application development</sub>
+</p>
+
+#### 🧰 Tools & Workflow
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, and Visual Studio Code" />
+</p>
+
+---
+
 ### ⚡ GitHub Activity & Stats
 
 <p align="center">
