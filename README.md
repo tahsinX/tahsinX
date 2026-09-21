@@ -15,6 +15,16 @@ Here are some ideas to get started:
 - 😄 Pronouns: …
 - ⚡ Fun fact: …
 -->
+<h3>⚡ GitHub Activity & Stats</h3>
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Hameme21&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2DD4BF&icon_color=2DD4BF" alt="Asir's GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tahsinX&theme=tokyonight&hide_border=true&background=0D1117&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF" alt="GitHub Streak" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=tahsinX&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2DD4BF" alt="Top Languages" height="140" />
+</p>
 ![GitHub contribution snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 
