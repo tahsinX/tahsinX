@@ -24,11 +24,6 @@ Welcome to my GitHub profile! I'm passionate about learning, building projects, 
 </p>
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
-</p>
-
----
 
 ### 🛠️ My Tech Stack
 
@@ -60,6 +55,12 @@ Based on my recent projects, I work with frontend development, JavaScript applic
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, and Visual Studio Code" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
 </p>
 
 ---
